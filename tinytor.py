@@ -3,7 +3,10 @@
 """TinyTor is a Tor client implementation."""
 __author__ = "Marten4n6"
 __license__ = "GPLv3"
-__version__ = "0.0.1"
+__version__ = "1.0.0"
+
+# Contributors:
+# - Cyclic (Neutrinos Platforms, Inc.) - NTOR handshake fixes, Python 3.14 compatibility
 
 import hashlib
 import hmac
